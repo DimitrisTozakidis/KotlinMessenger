@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649454363166",
+    "project_id": "register-login-fc6ed",
+    "storage_bucket": "register-login-fc6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649454363166:android:e6bc1aaf86b7e50d15840f",
+        "android_client_info": {
+          "package_name": "com.example.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649454363166-h1pq9rr5m21h9ksci8icvf496indc4cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActmV5PIWQsQkvwrSWzUfJ7c9wfTSpYMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649454363166-h1pq9rr5m21h9ksci8icvf496indc4cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
